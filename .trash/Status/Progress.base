@@ -1,9 +1,0 @@
-views:
-  - type: cards
-    name: ...
-    filters:
-      and:
-        - file.tags.containsAny("Filtered", "Output", "InProgress")
-    groupBy:
-      property: tags
-      direction: ASC

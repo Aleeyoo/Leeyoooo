@@ -2,6 +2,7 @@
 .obsidian/
 .config/
 控制中心/
+.trash/
 *.tmp
 
 # OS
