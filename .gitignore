@@ -5,6 +5,11 @@
 .trash/
 *.tmp
 
+# Agent
+.claude/
+.claudian/
+.cc-command-center/
+
 # OS
 .DS_Store
 Thumbs.db
