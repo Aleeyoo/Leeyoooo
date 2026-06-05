@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: ...
+    filters:
+      and:
+        - file.ext == "base"
+    groupBy:
+      property: file.folder
+      direction: ASC

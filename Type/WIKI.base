@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: ...
+    filters:
+      and:
+        - file.inFolder("WIKI")
+    sort:
+      - property: file.ctime
+        direction: DESC

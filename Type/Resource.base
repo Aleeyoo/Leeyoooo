@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: ...
+    filters:
+      and:
+        - '!file.ext.containsAny("md", "canvas", "base")'
+    groupBy:
+      property: file.ext
+      direction: ASC

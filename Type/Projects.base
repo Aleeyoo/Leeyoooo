@@ -1,0 +1,7 @@
+views:
+  - type: list
+    name: ...
+    filters:
+      and:
+        - file.hasLink("Projects.base")
+        - file.basename != "Obsidian_文件结构"

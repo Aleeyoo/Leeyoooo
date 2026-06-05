@@ -1,0 +1,6 @@
+views:
+  - type: list
+    name: WIKI 条目
+    filters:
+      and:
+        - file.hasLink("商业经营")

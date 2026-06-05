@@ -1,0 +1,6 @@
+views:
+  - type: list
+    name: WIKI 条目
+    filters:
+      and:
+        - file.hasLink("AI技术原理")

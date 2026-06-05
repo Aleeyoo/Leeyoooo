@@ -1,0 +1,6 @@
+views:
+  - type: cards
+    name: ...
+    filters:
+      and:
+        - file.ext == "canvas"

@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+*.orig

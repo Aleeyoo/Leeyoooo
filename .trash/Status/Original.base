@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: ...
+    filters:
+      and:
+        - file.tags.contains("Original")
+    groupBy:
+      property: file.links
+      direction: ASC

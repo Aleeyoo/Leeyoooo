@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779526287889-ct7yj3cjr",
+  "providerId": "claude",
+  "title": "Organize workflow knowledge pipeline",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779526287889,
+  "updatedAt": 1779526389339,
+  "lastResponseAt": 1779526383339,
+  "sessionId": "61ff0330-b43c-44e5-94a8-612fe105b4d4",
+  "providerState": {
+    "providerSessionId": "61ff0330-b43c-44e5-94a8-612fe105b4d4"
+  },
+  "currentNote": "Workflow/knowledge-pipeline.md",
+  "usage": {
+    "model": "deepseek-v4-pro",
+    "inputTokens": 167,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28032,
+    "contextWindow": 200000,
+    "contextTokens": 28199,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

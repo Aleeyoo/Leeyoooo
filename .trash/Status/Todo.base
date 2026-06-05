@@ -1,0 +1,14 @@
+formulas:
+  未命名: ""
+views:
+  - type: list
+    name: ...
+    filters:
+      and:
+        - file.tags.containsAny("todo", "wait")
+    groupBy:
+      property: file.tags
+      direction: ASC
+    order:
+      - file.name
+      - formula.未命名
