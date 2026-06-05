@@ -1,5 +1,7 @@
 # Obsidian
 .obsidian/
+.config/
+控制中心/
 *.tmp
 
 # OS
