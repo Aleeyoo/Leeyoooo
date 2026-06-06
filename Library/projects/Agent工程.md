@@ -1,6 +1,9 @@
 ---
 Belongs to: "[[Projects.base]]"
-aliases: ["Agent开发", "Agent架构", "Agent Engineering"]
+aliases:
+  - Agent开发
+  - Agent架构
+  - Agent Engineering
 tags: []
 created: 2026-05-24
 status: active
@@ -62,7 +65,7 @@ wikis:
   - "[[WIKI/动态Harness设计模式]]"
   - "[[WIKI/四层Agent工程的隐藏代价]]"
   - "[[WIKI/云端Agent沙箱基础设施]]"
-  - "[[WIKI/Skill库：企业第一AI战略]]"
+  - "[[Skill库-企业第一AI战略]]"
   - "[[WIKI/Agent沙箱隔离与控制平面]]"
   - "[[WIKI/企业统一智能脑架构]]"
   - "[[WIKI/现代工程价值观]]"

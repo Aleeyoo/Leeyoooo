@@ -1,6 +1,6 @@
 ---
 status: processed
-wiki: "[[WIKI/Skill库：企业第一AI战略]]"
+wiki: "[[Skill库-企业第一AI战略]]"
 ---
 # Every Company’s First AI Strategy Should Be a Skill Library 
 
